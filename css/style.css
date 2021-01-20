@@ -104,7 +104,7 @@ p {
     display: grid;
     grid-gap: 2rem;
     grid-template-rows: repeat(4, 1fr);
-    grid-template-columns: 20px, 1fr, 20px;
+    grid-template-columns: 33vw, 1fr, 33vw;
     grid-template-areas: ". super ."
                          ". team ."
                          ". karma ."
